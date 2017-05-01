@@ -8,7 +8,7 @@ body{
     
 }
 p{
-    font-size:5.0em;
+    font-size:8.0em;
     font-weight:200em;
 
     color:#ff0000;
@@ -19,4 +19,8 @@ p{
     padding: 5px 20px;
 
 
+}
+h1{
+    font-size:5.0em;
+    color:#ff0000;
 }
