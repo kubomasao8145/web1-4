@@ -9,6 +9,8 @@ body{
 }
 p{
     font-size:5.0em;
+    font-weight:200em;
+
     color:#ff0000;
     background-color:#00ff7f; 
     border: #94c8b1 1px dotted;
